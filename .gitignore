@@ -1,0 +1,7 @@
+.DS_Store
+development.sublime-project
+development.sublime-workspace
+sftp-config.json
+config.rb
+node_modules/
+public_html/
