@@ -5,3 +5,5 @@ sftp-config.json
 config.rb
 node_modules/
 public_html/
+
+sample-src/

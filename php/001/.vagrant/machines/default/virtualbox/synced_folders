@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/Users/oonishiyoshio/works/dev/development/php/001/data","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/oonishiyoshio/works/dev/development/php/001","disabled":false,"__vagrantfile":true}}}
